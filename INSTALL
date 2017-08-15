@@ -1,0 +1,9 @@
+Building SpandauBalletCoin
+
+See doc/readme-qt.rst for instructions on building SpandauBalletCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SpandauBalletCoin.
+
+See doc/build-*.txt for instructions on building spandauballetcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of SpandauBalletCoin.
